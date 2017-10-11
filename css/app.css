@@ -2,3 +2,8 @@
 nav {border:1px solid red;}
 .testimonial {border:1px solid blue;}
 .randimage {border:1px solid green;}
+
+
+/* feedback page */
+.tealbg {background-color: teal;}
+.feedbackform {padding: 100px}
