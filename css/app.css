@@ -2,16 +2,6 @@
 /*font-family: 'Ribeye Marrow', cursive;*/
 /*font-family: 'Quicksand', sans-serif;*/
 
-/*Boxfinding*/
-/*.testimonial {border:1px solid blue;}
-.randimage {border:1px solid green;}
-.navi {border: 1px solid red;}
-.logoshift {border: 1px solid teal;}
-.bigheadline {border: 1px solid purple;}
-.aboutreveal, .aboutplain {border: 1px solid yellow;}
-.feedbackform {border: 1px solid green;}
-.footie {border: 1px solid red;}*/
-
 p, label, textarea {font-family: 'Quicksand', sans-serif;}
 
 h1, h2, h3, h4, h5, h6 {font-family: 'Ribeye Marrow', cursive;}
@@ -21,5 +11,3 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Ribeye Marrow', cursive;}
 
 .testimonial {margin-top: 1.5em;
   margin-bottom: 1.5em;}
-
-/*#portfoliopage {background-color: lightgray;}*/
