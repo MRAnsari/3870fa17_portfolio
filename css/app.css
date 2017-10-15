@@ -1,8 +1,25 @@
-/* selector {property:value;} */
-nav {border:1px solid red;}
-.testimonial {border:1px solid blue;}
+/*Fonts*/
+/*font-family: 'Ribeye Marrow', cursive;*/
+/*font-family: 'Quicksand', sans-serif;*/
+
+/*Boxfinding*/
+/*.testimonial {border:1px solid blue;}
 .randimage {border:1px solid green;}
+.navi {border: 1px solid red;}
+.logoshift {border: 1px solid teal;}
+.bigheadline {border: 1px solid purple;}
+.aboutreveal, .aboutplain {border: 1px solid yellow;}
+.feedbackform {border: 1px solid green;}
+.footie {border: 1px solid red;}*/
 
+p, label, textarea {font-family: 'Quicksand', sans-serif;}
 
-/* feedback page */
-/*.feedbackform {padding: 100px;}*/
+h1, h2, h3, h4, h5, h6 {font-family: 'Ribeye Marrow', cursive;}
+
+.navi {margin-top: 2.5em;
+  margin-bottom: 2.5em;}
+
+.testimonial {margin-top: 1.5em;
+  margin-bottom: 1.5em;}
+
+/*#portfoliopage {background-color: lightgray;}*/
