@@ -11,3 +11,18 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Ribeye Marrow', cursive;}
 
 .testimonial {margin-top: 1.5em;
   margin-bottom: 1.5em;}
+
+.button {
+  background-color: darkgray;
+  color: #fefefe;
+  }
+
+.button:hover, .button:focus {
+  background-color: gray;
+  color: #fefefe;
+  }
+
+a {color: gray;}
+a:hover {color: darkgray;}
+a:visited {color: gray;}
+a:active {color: lightgray;}
